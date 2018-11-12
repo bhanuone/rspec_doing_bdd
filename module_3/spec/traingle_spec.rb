@@ -1,5 +1,5 @@
 require 'spec_helper'
-require './module_2/lib/triangle'
+require './module_3/lib/triangle'
 
 describe Triangle do
   it 'should return :isosceles when only two sides are equal' do
