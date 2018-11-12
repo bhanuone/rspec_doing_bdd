@@ -1,3 +1,3 @@
 # Running instructions 
-1.  rspec module_2/spec 
+1.  rspec module_3/spec 
 

@@ -1,2 +1,2 @@
 # Instructions 
-1. Run `find . -type d -name spec`
+1. Run rspec `find . -type d -name spec`
