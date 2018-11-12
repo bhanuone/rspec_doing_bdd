@@ -1,5 +1,5 @@
-require 'spec_helper'
-require './module_1/lib/zombie'
+require_relative './../../spec/spec_helper'
+require_relative './../lib/zombie'
 
 describe Zombie do
   it 'is name Ash' do

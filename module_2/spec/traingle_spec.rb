@@ -1,4 +1,4 @@
-require 'spec_helper'
+require_relative './../../spec/spec_helper'
 #require './module_2/lib/triangle'
 
 describe Triangle do
